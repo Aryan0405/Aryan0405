@@ -99,6 +99,7 @@ me = {
       <sub><b>geospatial · heat hazard and exposure</b></sub>
       <p>Interactive map of land surface heat hazard and population exposure across Greater Mumbai on a 500 m grid, built from Landsat 8/9 and WorldPop. Includes a sensitivity analysis: 107 of the top 180 cells stay hotspots under all five exposure weightings.</p>
       <p><code>Python</code> <code>Streamlit</code> <code>Plotly</code> <code>GeoPandas</code> <code>K-Means</code></p>
+      <a href="https://mumbai-uhi.streamlit.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
       <a href="https://github.com/Aryan0405/mumbai-uhi"><img src="https://img.shields.io/badge/view_repo-A21517?style=for-the-badge" alt="View repo" /></a>
     </td>
     <td width="50%" valign="top">
