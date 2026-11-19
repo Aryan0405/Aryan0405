@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="https://github.com/Aryan0405"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Aryan&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Data%20Science%20%C2%B7%20AI%2FML%20%C2%B7%20Mumbai&descSize=24&descAlignY=64" width="100%" alt="Aryan, Data Science and AI/ML" /></a>
+  <a href="https://github.com/Aryan0405"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Aryan&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20AI%2FML%20%C2%B7%20Mumbai&descSize=24&descAlignY=72" width="100%" alt="Aryan, Data Science and AI/ML" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+data+science+student+in+mumbai.;%3E+i+care+about+models+that+explain+themselves.;%3E+aiming+for+ai%2Fml+engineering." width="100%" alt="Typing lines" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-ashok"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
