@@ -33,9 +33,9 @@ me = {
 <br />
 <table>
   <tr><td><b>2025</b></td><td>Started my B.Sc. in Data Science & Business Analytics at SDBI</td></tr>
-  <tr><td><b>Apr to Jun 2026</b></td><td>Finished a 52-day self-study roadmap: Python, Pandas, scikit-learn, XGBoost, SHAP, SQL, Streamlit, FastAPI</td></tr>
+  <tr><td><b>Apr to Jun 2026</b></td><td>Learned: Python, Pandas, scikit-learn, XGBoost, SHAP, SQL, Streamlit, FastAPI</td></tr>
   <tr><td><b>2026</b></td><td>Won Data Duel at Sankhyiki (NMIMS Analytics Cell)</td></tr>
-  <tr><td><b>Nov 2026</b></td><td>Into 4th semester, building one big project every month</td></tr>
+  <tr><td><b>Nov 2026</b></td><td>Into 4th semester, trying to building one big project every month</td></tr>
 </table>
 </details>
 
