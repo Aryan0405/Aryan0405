@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/9.8-CGPA_Year_1-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="9.8 CGPA in year 1" />
   <img src="https://img.shields.io/badge/3-competition_wins-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="3 competition wins" />
-  <img src="https://img.shields.io/badge/2-live_demos-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="2 live demos" />
+  <img src="https://img.shields.io/badge/4-live_demos-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="4 live demos" />
 </p>
 
 ## 🧬 about
@@ -101,9 +101,19 @@ me = {
       <p>Interactive map of land surface heat hazard and population exposure across Greater Mumbai on a 500 m grid, built from Landsat 8/9 and WorldPop. Includes a sensitivity analysis: 107 of the top 180 cells stay hotspots under all five exposure weightings.</p>
       <p><code>Python</code> <code>Streamlit</code> <code>Plotly</code> <code>GeoPandas</code> <code>K-Means</code></p>
       <a href="https://mumbai-uhi.streamlit.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
-      <a href="https://github.com/Aryan0405/mumbai-uhi"><img src="https://img.shields.io/badge/view_repo-A21517?style=for-the-badge" alt="View repo" /></a>
+      <a href="https://github.com/Aryan0405/mumbai-uhi"><img src="https://img.shields.io/badge/view_repo-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="View repo" /></a>
     </td>
     <td width="50%" valign="top">
+      <h3>🚆 <a href="https://github.com/Aryan0405/MetroPT3-Clustering">MetroPT-3 Compressor Clustering</a></h3>
+      <sub><b>unsupervised learning · predictive maintenance · live demo</b></sub>
+      <p>K-Means on 50,513 five-minute windows of train compressor sensor data, with no failure labels used in training. One operating mode, sustained high load, is 6% of the time but holds 985 of 992 failure windows (99.3%). At about 1 in 3 precision it shows where failures happen, not an early warning, and the README spells out the limits.</p>
+      <p><code>Python</code> <code>K-Means</code> <code>PCA</code> <code>Streamlit</code> <code>Power BI</code></p>
+      <a href="https://metropt3-clustering.streamlit.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
+      <a href="https://github.com/Aryan0405/MetroPT3-Clustering"><img src="https://img.shields.io/badge/view_repo-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="View repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>📂 <a href="https://github.com/Aryan0405?tab=repositories">More Work</a></h3>
       <sub><b>everything else</b></sub>
       <p>More projects live in the repositories tab, with a new big build planned every month.</p>
